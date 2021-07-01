@@ -1,9 +1,3 @@
-
-1. ❗️ Opened issue [#3048](https://github.com/JonathanGin52/JonathanGin52/issues/3048) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-2. ❗️ Opened issue [#14599](https://github.com/timburgan/timburgan/issues/14599) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-3. ❌ Closed PR [#1](https://github.com/GrimReaper007-Sharon/DiscordBot-Dashboard/pull/1) in [GrimReaper007-Sharon/DiscordBot-Dashboard](https://github.com/GrimReaper007-Sharon/DiscordBot-Dashboard)
-4. 💪 Opened PR [#1](https://github.com/GrimReaper007-Sharon/DiscordBot-Dashboard/pull/1) in [GrimReaper007-Sharon/DiscordBot-Dashboard](https://github.com/GrimReaper007-Sharon/DiscordBot-Dashboard)
-
 # GRIMREAPER007 
 
 <h2 align="center">About me</h2>

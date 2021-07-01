@@ -44,9 +44,11 @@ func GetBio() Bio {
 
 <p align="center"><img src="https://profile-counter.glitch.me/{GrimReaper007-Sharon}/count.svg" alt="GrimReaper007-Sharon :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
+<h4 align="center">MY EXISTENCE ✅ :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrimReaper007-Sharon&langs_count=10&theme=tokyonight&layout=compact" alt="GrimReaper007-Sharon:: Top Langs" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GrimReaper007-Sharon&count_private=true&theme=radical" alt="GrimReaper007-Sharon" />
+<h4 align="center">Top langs 🙂</h4>
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrimReaper007-Sharon&count_private=true&theme=radical" alt="GrimReapper007-Sharon" />
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 

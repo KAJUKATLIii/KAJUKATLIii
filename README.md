@@ -1,3 +1,4 @@
+<!--START_SECTION:activity-->
 # GRIMREAPER007 
 
 <h2 align="center">About me</h2>

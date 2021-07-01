@@ -31,11 +31,9 @@ func GetBio() Bio {
 
 <h2 align="center">You can reach me at :alien:</h2>
 
-<p align="center">
-<a href="https://youtube.com/channel/UCZ8ieOnxcsdIHzEPzuPRrRQ">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
-  </a>
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GrimReaper007-Sharon )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/grimreaper007-sharon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://youtube.com/channel/UCZ8ieOnxcsdIHzEPzuPRrRQ ) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/hAkgCwvGuE)  
+
+
 
 
 <h2 align="center">Github stats :bar_chart:</h2>
@@ -54,8 +52,7 @@ func GetBio() Bio {
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GrimReaper007-Sharon&show_icons=true&theme=synthwave" alt="GrimReaper007-Sharon:: Profile Stats" /></p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
-
+![](https://media.discordapp.net/attachments/851620635095990329/859991490180677632/350kb_2.gif)
 
 ---
 

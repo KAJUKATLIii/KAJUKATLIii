@@ -52,6 +52,8 @@ func GetBio() Bio {
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GrimReaper007-Sharon&show_icons=true&theme=synthwave" alt="GrimReaper007-Sharon:: Profile Stats" /></p>
 
+![](https://readme-jokes.vercel.app/api)
+
 ![](https://media.discordapp.net/attachments/851620635095990329/859991490180677632/350kb_2.gif)
 
 -

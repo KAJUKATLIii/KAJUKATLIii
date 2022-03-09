@@ -1,4 +1,4 @@
-# GRIMREAPER007 
+# ShootingTruth
 
 <h2 align="center">About me</h2>
 
@@ -22,7 +22,7 @@ func GetBio() Bio {
 		"- ⚡ Quick bio:":                    "CODER GAMER MUSICIAN",
 		"- 🔭 I’m currently working on":      "Its Secret",
 		"- 🌱 I’m currently learning":        "TO BE A GOOD PERSON"
-		"- 📫 How to reach me:":              "https://github.com/GrimReaper007-Sharon",
+		"- 📫 How to reach me:":              "https://github.com/ShootingTruth",
 	}
 }
 ```
@@ -31,7 +31,7 @@ func GetBio() Bio {
 
 <h2 align="center">You can reach me at :alien:</h2>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GrimReaper007-Sharon )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/grimreaper007-sharon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://youtube.com/channel/UCZ8ieOnxcsdIHzEPzuPRrRQ ) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/hAkgCwvGuE)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ShootingTruth)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/grimreaper007-sharon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://youtube.com/channel/UCZ8ieOnxcsdIHzEPzuPRrRQ ) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/hAkgCwvGuE)  
 
 
 
@@ -40,17 +40,17 @@ func GetBio() Bio {
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{GrimReaper007-Sharon}/count.svg" alt="GrimReaper007-Sharon :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{ShootingTruth}/count.svg" alt="ShootingTruth :: Visitor's Count" /></p>
 
 <h4 align="center">MY EXISTENCE ✅ :tongue:</h4>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GrimReaper007-Sharon&count_private=true&theme=radical" alt="GrimReaper007-Sharon" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShootingTruth&count_private=true&theme=radical" alt="ShootingTruth" />
 <h4 align="center">Top langs 🙂</h4>
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrimReaper007-Sharon&count_private=true&theme=radical" alt="GrimReapper007-Sharon" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShootingTruth&count_private=true&theme=radical" alt="ShootingTruth" />
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GrimReaper007-Sharon&show_icons=true&theme=synthwave" alt="GrimReaper007-Sharon:: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShootingTruth&show_icons=true&theme=synthwave" alt="ShootingTruth:: Profile Stats" /></p>
 
 ![](https://readme-jokes.vercel.app/api)
 
@@ -58,6 +58,6 @@ func GetBio() Bio {
 
 -
 
-⭐️ From [@GrimReaper007-Sharon](https://github.com/GrimReaper007-Sharon)
+⭐️ From [@ShootingTruth](https://github.com/ShootingTruth)
 
 

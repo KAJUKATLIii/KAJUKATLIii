@@ -60,4 +60,4 @@ func GetBio() Bio {
 
 ⭐️ From [@ShootingTruth](https://github.com/ShootingTruth)
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fuvl2b7bezcfbhj4s7avxuupom&cover_image=true&theme=default&bar_color_cover=true&bar_color=00ff00)](https://github.com/kittinan/spotify-github-profile)

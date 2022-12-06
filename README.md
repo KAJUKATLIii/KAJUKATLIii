@@ -1,4 +1,4 @@
-# ShootingTruth
+# KAJUKATLIii
 
 <h2 align="center">About me</h2>
 
@@ -54,10 +54,10 @@ func GetBio() Bio {
 
 ![](https://readme-jokes.vercel.app/api)
 
-![](https://media.discordapp.net/attachments/851620635095990329/859991490180677632/350kb_2.gif)
+![](https://cdn.discordapp.com/attachments/935622008136429588/968686741227700254/20220422_212959_0000.png)
 
 -
 
-⭐️ From [@ShootingTruth](https://github.com/ShootingTruth)
+⭐️ From [@KAJUKATLIii](https://github.com/ShootingTruth)
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31fuvl2b7bezcfbhj4s7avxuupom&cover_image=true&theme=novatorem&bar_color=00ff00&bar_color_cover=true)](https://github.com/ShootingTruth/ShootingTruth)

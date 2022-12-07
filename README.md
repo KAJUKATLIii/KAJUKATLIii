@@ -22,7 +22,7 @@ func GetBio() Bio {
 		"- ⚡ Quick bio:":                    "CODER GAMER MUSICIAN",
 		"- 🔭 I’m currently working on":      "Its Secret",
 		"- 🌱 I’m currently learning":        "TO BE A GOOD PERSON"
-		"- 📫 How to reach me:":              "https://github.com/ShootingTruth",
+		"- 📫 How to reach me:":              "https://github.com/KAJUKATLIii",
 	}
 }
 ```
@@ -46,7 +46,7 @@ func GetBio() Bio {
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KAJUKATLIii&count_private=true&theme=radical" alt="ShootingTruth" />
 <h4 align="center">Top langs 🙂</h4>
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShootingTruth&count_private=true&theme=radical" alt="KAJUKATLIii" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAJUKATLIii&count_private=true&theme=radical" alt="KAJUKATLIii" />
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 

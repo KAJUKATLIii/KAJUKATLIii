@@ -44,13 +44,13 @@ func GetBio() Bio {
 
 <h4 align="center">MY EXISTENCE ✅ :tongue:</h4>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShootingTruth&count_private=true&theme=radical" alt="ShootingTruth" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KAJUKATLIii&count_private=true&theme=radical" alt="ShootingTruth" />
 <h4 align="center">Top langs 🙂</h4>
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShootingTruth&count_private=true&theme=radical" alt="ShootingTruth" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShootingTruth&count_private=true&theme=radical" alt="KAJUKATLIii" />
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShootingTruth&show_icons=true&theme=synthwave" alt="ShootingTruth:: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=KAJUKATLIii&show_icons=true&theme=synthwave" alt="KAJUKATLIii:: Profile Stats" /></p>
 
 ![](https://readme-jokes.vercel.app/api)
 

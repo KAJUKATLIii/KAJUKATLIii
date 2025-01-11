@@ -58,6 +58,6 @@ func GetBio() Bio {
 
 -
 
-⭐️ From [@KAJUKATLIii](https://github.com/ShootingTruth)
+⭐️ From [@KAJUKATLIii](https://github.com/KAJUKATLIii/KAJUKATLIii)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fuvl2b7bezcfbhj4s7avxuupom&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)(https://spotify-github-profile.kittinanx.com/api/view?uid=31fuvl2b7bezcfbhj4s7avxuupom&redirect=true)(https://github.com/KAJUKATLIii/KAJUKATLIii)]
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31fuvl2b7bezcfbhj4s7avxuupom&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31fuvl2b7bezcfbhj4s7avxuupom&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=000000&bar_color_cover=true)]]

@@ -53,8 +53,7 @@ func GetBio() Bio {
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=KAJUKATLIii&show_icons=true&theme=synthwave" alt="KAJUKATLIii:: Profile Stats" /></p>
 
 ![](https://readme-jokes.vercel.app/api)
-
-![](https://cdn.discordapp.com/attachments/935622008136429588/968686741227700254/20220422_212959_0000.png)
+![](https://cdn.discordapp.com/attachments/935622008136429588/1473145802145796218/Picsart_26-02-14_18-16-21-792.jpg?ex=69952570&is=6993d3f0&hm=5689bde82918f74816c455084ac774bf8d370bfa65833666e8f418f5e42ebc18&)
 
 -
 

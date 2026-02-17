@@ -21,6 +21,13 @@
 ## GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KAJUKATLIii&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+
+
+
+![](https://readme-jokes.vercel.app/api)
+
+-
+
 ⭐️ From [@KAJUKATLIii](https://github.com/KAJUKATLIii/KAJUKATLIii)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fuvl2b7bezcfbhj4s7avxuupom&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/KAJUKATLIii/KAJUKATLIii)
